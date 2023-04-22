@@ -27,6 +27,6 @@
   "devDependencies": {
     "benchmark": "^2.1.4",
     "browserify": "^17.0.0",
-    "mocha": "^8.3.2"
+    "mocha": "^10.2.0"
   }
 }
